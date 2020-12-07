@@ -14,7 +14,7 @@ company:
   name: Improbable Ltd
   url: "https://improbable.io"
 
-resume: "files/resume.pdf"
+# resume: "files/resume.pdf"
 summary: 'I am a passionate geek which spend most of his time on automating things.'
 
 socialLinks:

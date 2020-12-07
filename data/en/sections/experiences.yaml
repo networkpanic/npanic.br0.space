@@ -21,7 +21,7 @@ experiences:
       - designation: Senior System Administrator
         start: Nov 2020
         responsibilities:
-          - Mainting Ansible roles for Windows, Mac and Linux.
+          - Maintaining Ansible roles for Windows, Mac and Linux.
           - Contribute to complex Buildkite pipelines.
 
       - designation: Senior System Administrator

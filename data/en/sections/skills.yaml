@@ -19,8 +19,8 @@ skills:
 
   - name: Ansible
     icon: "/images/ansible.svg"
-    summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-    url: "https://golang.org/"
+    summary: "Write and maintain playbooks and roles."
+    url: "https://www.ansible.com/"
 
   - name: Cloud Computing
     icon: "/images/cloud.svg"

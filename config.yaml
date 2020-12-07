@@ -23,7 +23,7 @@ params:
     main: /images/terminal.svg
     inverted: /images/terminal_inverted.svg
     favicon: /images/favicon.ico
-  gitRepo: https://github.com/networkpanic/aboutme
+  gitRepo: https://github.com/networkpanic/networkpanic.github.io
   enableBlogPost: false
   enableTOC: true
 
