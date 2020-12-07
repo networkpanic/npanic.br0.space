@@ -9,12 +9,17 @@ languages:
     weight: 1
 
 markup:
+  goldmark:
+    renderer:
+      unsafe: true
   tableOfContents:
     startLevel: 2
     endLevel: 6
     ordered: false
-
+  highlight:
+    guessSyntax: true
 enableEmoji: true
+enableGitInfo: true
 
 # Site parameters
 params:
