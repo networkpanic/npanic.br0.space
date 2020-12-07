@@ -1,16 +1,14 @@
-# some information about you
+---
+
 name: "Martin Friedrich"
 nickname: "networkpanic"
 image: "images/avatar.png"
 
-# greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
 
-# give your contact information. they will be used in the footer
 contactInfo:
   email: "npanic@acid.wtf"
 #  phone: "+0123456789"
 
-# a summary of what you do
 summary:
-- I love to work with linux and macOS
+  - I love to work with linux and macOS

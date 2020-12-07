@@ -1,5 +1,5 @@
+---
 
-# section information
 section:
   name: About
   id: about
@@ -8,72 +8,55 @@ section:
   showOnNavbar: true
   template: sections/about.html
 
-# your designation
 designation: Software Engineer
-# your company information
+
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Improbable Ltd
+  url: "https://improbable.io"
 
-# your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
+summary: 'I am a passionate geek which spend most of his time on automating things.'
 
-# a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
-
-# your social links
-# give as many as you want. use font-awesome for the icons.
 socialLinks:
-- name: Email
-  icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  - name: Email
+    icon: "fas fa-envelope"
+    url: "npanic@acid.wtf"
 
-- name: Github
-  icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  - name: Github
+    icon: "fab fa-github"
+    url: "https://github.com/networkpanic"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+  - name: Stackoverflow
+    icon: "fab fa-stack-overflow"
+    url: "#"
 
-- name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "#"
+  - name: LinkedIn
+    icon: "fab fa-linkedin"
+    url: "https://linkedin.com/in/networkpanic/"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
-
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
+  - name: Twitter
+    icon: "fab fa-twitter"
+    url: "https://twitter.com/Panic_Network"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Leadership
-  percentage: 85
-  color: blue
-- name: Team Work
-  percentage: 90
-  color: yellow
-- name: Communication
-  percentage: 85
-  color: pink
-- name: Hard Working
-  percentage: 85
-  color: green
-- name: Fast Learner
-  percentage: 85
-  color: sky
-- name: Problem Solving
-  percentage: 85
-  color: orange
-# you can also provide color code instead of pre-defined color name
-# - name: Example 1
-#   percentage: 75
-#   color: "#00adb5"
-# - name: Example 2
-#   percentage: 65
-#   color: "#8b8383"
+  - name: Leadership
+    percentage: 60
+    color: blue
+  - name: Team Work
+    percentage: 90
+    color: yellow
+  - name: Communication
+    percentage: 80
+    color: pink
+  - name: Hard Working
+    percentage: 95
+    color: green
+  - name: Fast Learner
+    percentage: 85
+    color: sky
+  - name: Problem Solving
+    percentage: 85
+    color: orange

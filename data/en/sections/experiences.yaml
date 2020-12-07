@@ -1,4 +1,5 @@
-# section information
+---
+
 section:
   name: Experiences
   id: experiences
@@ -6,59 +7,85 @@ section:
   weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
-  # hideTitle: true 
+  # hideTitle: true
 
-# Your experiences
+
 experiences:
-- company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
-  positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+  - company:
+      name: Improbable.io
+      url: "https://improbable.io"
+      location: Remote
+      # company overview
+      overview: Groundbreaking gameplay enabled by Improbable technology.
+    positions:
+      - designation: Senior System Administrator
+        start: Nov 2020
+        responsibilities:
+          - Mainting Ansible roles for Windows, Mac and Linux.
+          - Contribute to complex Buildkite pipelines.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+      - designation: Senior System Administrator
+        start: Feb 2019
+        end: Nov 2020
+        responsibilities:
+          - Teamlead gameserver infrastructure.
+          - Managing bare-metal infrastructure using Ansible.
+          - K8S deployments using Gitlab-ci.
+          - Mainting Ansible roles for Windows and Linux.
 
-- company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
-  positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
-    responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+  - company:
+      name: Zeuz.io
+      url: "https://zeuz.io"
+      location: Munich/Germany
+      overview: Easy to use backend services for multiplayer games.
+    positions:
+      - designation: Senior System Administrator
+        start: Jan 2019
+        end: Feb 2020
+        responsibilities:
+          - Teamlead infrastructure.
+          - K8S deployments using Gitlab-ci.
+          - Managing bare-metal infrastructure using Ansible.
+          - Mainting Ansible roles for Windows and Linux.
+          - Building a Docker based Platform for gameserver workloads.
 
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.intern.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+  - company:
+      name: Daypaio
+      url: "https://daypaio.com"
+      location: Munich/Germany
+      overview: CRM as a Service
+    positions:
+      - designation: Senior System Administrator
+        start: Jun 2018
+        end: Jan 2019
+        responsibilities:
+          - Microservice deployments using Gitlab-CI.
+          - Migration of existing CI pipelines from Jenkins to Gitlab.
+
+  - company:
+      name: Draglet GmbH
+      url: "https://draglet.com"
+      location: Munich/Germany
+      overview: Cryptocurrency as a Service provider.
+    positions:
+      - designation: Teamlead Infrastructure
+        start: Oct 2017
+        end: May 2018
+        responsibilities:
+          - Administration of Blockchain wallets.
+          - Recruiting of team members.
+          - Monitoring using Icinga.
+          - Migration of existing CI pipelines from Jenkins to Gitlab.
+
+  - company:
+      name: Hörer und Flamme
+      url: "https://hoerer-flamme.com/"
+      location: Munich/Germany
+      overview: Telemarketing agency.
+    positions:
+      - designation: System administrator
+        start: Oct 2015
+        end: Oct 2016
+        responsibilities:
+          - LDAP/AD administration using Univention Corporate server.
+          - Device management.
