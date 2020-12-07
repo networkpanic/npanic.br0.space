@@ -1,4 +1,4 @@
-baseURL: https://networkpanic.github.io/aboutme
+baseURL: https://networkpanic.github.io/
 languageCode: en-us
 title: "Martin Friedrich"
 theme: "toha"
@@ -18,11 +18,11 @@ enableEmoji: true
 
 # Site parameters
 params:
-  background: "images/bg.jpeg"
+  background: /images/bg.jpeg
   logo:
-    main: images/terminal.svg
-    inverted: images/terminal_inverted.svg
-    favicon: images/favicon.ico
+    main: /images/terminal.svg
+    inverted: /images/terminal_inverted.svg
+    favicon: /images/favicon.ico
   gitRepo: https://github.com/networkpanic/aboutme
   enableBlogPost: false
   enableTOC: true
