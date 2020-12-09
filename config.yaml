@@ -2,6 +2,7 @@ baseURL: https://networkpanic.github.io/
 languageCode: en-us
 title: "Martin Friedrich"
 theme: "toha"
+googleAnalytics: G-P2WE0HZ2WH
 
 languages:
   en:
