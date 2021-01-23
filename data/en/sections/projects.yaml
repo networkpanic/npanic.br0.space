@@ -21,7 +21,7 @@ buttons:
 # your projects
 projects:
   - name: Mandelbulber2
-    logo: /images/mandelbulber.png
+    logo: images/mandelbulber.png
     role: Package maintainer
     timeline: "March 2018 - Present"
     url: "https://aur.archlinux.org/packages/mandelbulber2-opencl-git"
@@ -29,7 +29,7 @@ projects:
     tags: ["raytracing", "archlinux", "hobby"]
 
   - name: Dotfiles
-    logo: /images/terminal.svg
+    logo: images/terminal.svg
     role: Package maintainer
     timeline: "March 2016 - Present"
     url: "https://github.com/networkpanic/dotfiles"

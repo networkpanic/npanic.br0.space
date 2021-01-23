@@ -33,7 +33,7 @@ skills:
 
   - name: Prometheus
     icon: "/images/prometheus.svg"
-    summary: "Capable of setting up and configuring Prometheus metrics. Experienced with PromQL, AlertManage and writing metric exporters."
+    summary: "Capable of setting up and configuring Prometheus metrics. Experienced with PromQL, AlertManager and writing metric exporters."
     url: "https://prometheus.io/"
 
   - name: Linux
