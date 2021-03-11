@@ -1,4 +1,4 @@
-baseURL: https://networkpanic.github.io/
+baseURL: https://npanic.br0.space/
 languageCode: en-us
 title: "Martin Friedrich"
 theme: "toha"
@@ -29,7 +29,7 @@ params:
     main: images/terminal.svg
     inverted: images/terminal_inverted.svg
 #    favicon: /images/favicon.ico
-  gitRepo: https://github.com/networkpanic/networkpanic.github.io
+  gitRepo: https://github.com/networkpanic/npanic.br0.space
   enableBlogPost: false
   enableTOC: true
 
