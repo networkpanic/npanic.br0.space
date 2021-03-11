@@ -24,10 +24,10 @@ enableGitInfo: true
 
 # Site parameters
 params:
-  background: /images/bg.jpeg
+  background: images/site/the_eye.png
   logo:
-    main: /images/terminal.svg
-    inverted: /images/terminal_inverted.svg
+    main: images/terminal.svg
+    inverted: images/terminal_inverted.svg
 #    favicon: /images/favicon.ico
   gitRepo: https://github.com/networkpanic/networkpanic.github.io
   enableBlogPost: false
