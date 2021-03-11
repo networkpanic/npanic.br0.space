@@ -29,7 +29,6 @@ projects:
     tags: ["raytracing", "archlinux", "hobby"]
 
   - name: Dotfiles
-    logo: images/terminal.svg
     role: Package maintainer
     timeline: "March 2016 - Present"
     url: "https://github.com/networkpanic/dotfiles"
