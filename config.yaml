@@ -35,7 +35,7 @@ params:
     inverted: /images/terminal_inverted.svg
     favicon: /images/site/favicon.png
   background: /images/site/the_eye.png
-  #gitRepo: https://github.com/networkpanic/npanic.br0.space
+  gitRepo: https://github.com/networkpanic/npanic.br0.space
   enableBlogPost: false
   enableTOC: true
 
