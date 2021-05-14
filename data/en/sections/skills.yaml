@@ -13,42 +13,42 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
   - name: Kubernetes
-    icon: "/images/kubernetes.svg"
+    logo: images/skills/kubernetes.png
     summary: "Capable of deploying and managing applications on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
     url: "https://kubernetes.io/"
 
   - name: Ansible
-    icon: "/images/ansible.svg"
+    logo: images/skills/ansible.png
     summary: "Write and maintain playbooks and roles."
     url: "https://www.ansible.com/"
 
   - name: Cloud Computing
-    icon: "/images/cloud.svg"
+    logo: images/skills/cloud.png
     summary: "Worked with most of the major cloud providers such as GCP, AWS, Azure etc."
 
   - name: Docker
-    icon: "/images/docker.svg"
+    logo: images/skills/docker.png
     summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build processes."
     url: "https://www.docker.com/"
 
   - name: Prometheus
-    icon: "/images/prometheus.svg"
+    logo: images/skills/prometheus.png
     summary: "Capable of setting up and configuring Prometheus metrics. Experienced with PromQL, AlertManager and writing metric exporters."
     url: "https://prometheus.io/"
 
   - name: Linux
-    icon: "/images/linux.svg"
+    logo: images/skills/linux.png
     summary: "Used as the main operating system on servers. Capable of writing bash/shell scripts."
 
   - name: MacOS
-    icon: "/images/apple.svg"
+    logo: images/skills/apple.png
     summary: "Used as the main operating system. Capable of writing bash/shell scripts."
 
   - name: Windows
-    icon: "/images/linux.svg"
+#    logo: images/skills/windows.png
     summary: "Using for Ansible development. Capable of creating unattended installations."
 
   - name: Git
-    icon: "/images/git.svg"
+    logo: images/skills/git.png
     summary: "Experienced with git-based development. Mostly Github. Experienced with GitLab."
     url: "https://git-scm.com/"

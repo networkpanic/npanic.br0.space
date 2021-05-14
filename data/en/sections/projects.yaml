@@ -21,7 +21,7 @@ buttons:
 # your projects
 projects:
   - name: Mandelbulber2
-    logo: images/mandelbulber.png
+    logo: images/projects/mandelbulber.png
     role: Package maintainer
     timeline: "March 2018 - Present"
     url: "https://aur.archlinux.org/packages/mandelbulber2-opencl-git"
@@ -30,6 +30,7 @@ projects:
 
   - name: Dotfiles
     role: Package maintainer
+    logo: images/projects/terminal.png
     timeline: "March 2016 - Present"
     url: "https://github.com/networkpanic/dotfiles"
     summary: "Dotfiles that i use on my workstations"
