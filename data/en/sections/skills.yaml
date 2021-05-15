@@ -6,8 +6,7 @@ section:
   enable: true
   weight: 2
   showOnNavbar: true
-  # Can optionally hide the title in sections
-  # hideTitle: true
+  hideTitle: true
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.
@@ -45,7 +44,7 @@ skills:
     summary: "Used as the main operating system. Capable of writing bash/shell scripts."
 
   - name: Windows
-#    logo: images/skills/windows.png
+    #    logo: images/skills/windows.png
     summary: "Using for Ansible development. Capable of creating unattended installations."
 
   - name: Git
