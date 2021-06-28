@@ -20,14 +20,6 @@ buttons:
 
 # your projects
 projects:
-  - name: Mandelbulber2
-    logo: images/projects/mandelbulber.png
-    role: Package maintainer
-    timeline: "March 2018 - Present"
-    url: "https://aur.archlinux.org/packages/mandelbulber2-opencl-git"
-    summary: "Fractal raytracer"
-    tags: ["raytracing", "archlinux", "hobby"]
-
   - name: Dotfiles
     role: Package maintainer
     logo: images/projects/terminal.png
@@ -35,3 +27,19 @@ projects:
     url: "https://github.com/networkpanic/dotfiles"
     summary: "Dotfiles that i use on my workstations"
     tags: ["dotfiles", "archlinux", "macos", "hobby"]
+
+  - name: Mandelbulber2 AUR
+    logo: images/projects/mandelbulber.png
+    role: Package maintainer
+    timeline: "March 2018 - Present"
+    url: "https://aur.archlinux.org/packages/mandelbulber2-opencl-git"
+    summary: "Fractal raytracer"
+    tags: ["raytracing", "archlinux", "hobby"]
+
+  - name: k3s-at-home
+    role: maintainer
+    logo: images/projects/terminal.png
+    timeline: "March 2021 - Present"
+    url: "https://github.com/networkpanic/k3s-at-home"
+    summary: "Dotfiles that i use on my workstations"
+    tags: ["k3s", "gitops", "flux"]

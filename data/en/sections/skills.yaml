@@ -11,11 +11,6 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-  - name: Kubernetes
-    logo: images/skills/kubernetes.png
-    summary: "Capable of deploying and managing applications on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-    url: "https://kubernetes.io/"
-
   - name: Ansible
     logo: images/skills/ansible.png
     summary: "Write and maintain playbooks and roles."
@@ -29,6 +24,11 @@ skills:
     logo: images/skills/docker.png
     summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build processes."
     url: "https://www.docker.com/"
+ 
+  - name: Kubernetes
+    logo: images/skills/kubernetes.png
+    summary: "Capable of deploying and managing applications on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+    url: "https://kubernetes.io/"
 
   - name: Prometheus
     logo: images/skills/prometheus.png
@@ -41,11 +41,11 @@ skills:
 
   - name: MacOS
     logo: images/skills/apple.png
-    summary: "Used as the main operating system. Capable of writing bash/shell scripts."
+    summary: "Used as the main operating system. MDM management, Jamf"
 
   - name: Windows
     #    logo: images/skills/windows.png
-    summary: "Using for Ansible development. Capable of creating unattended installations."
+    summary: "AzureAD/Intune endpoint management. "
 
   - name: Git
     logo: images/skills/git.png
