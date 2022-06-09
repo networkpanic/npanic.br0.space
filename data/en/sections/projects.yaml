@@ -36,10 +36,10 @@ projects:
     summary: "Fractal raytracer"
     tags: ["raytracing", "archlinux", "hobby"]
 
-  - name: k3s-at-home
+  - name: home-infra
     role: maintainer
     logo: images/projects/terminal.png
     timeline: "March 2021 - Present"
-    url: "https://github.com/networkpanic/k3s-at-home"
-    summary: "Dotfiles that i use on my workstations"
+    url: "https://github.com/networkpanic/home-infra"
+    summary: "My Homelab running k3s & FluxCD"
     tags: ["k3s", "gitops", "flux"]

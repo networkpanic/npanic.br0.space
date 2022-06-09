@@ -17,8 +17,18 @@ experiences:
       # company overview
       overview: Groundbreaking gameplay enabled by Improbable technology.
     positions:
+      - designation: Senior System Administrator / Platform Engineer.
+        start: Oct 2021
+        end: Aug 2022
+        responsibilities:
+          - AutoPKG packaging for MacOS.
+          - Endpoint management using Puppet.
+          - Managing a Apple device fleet using Micromdm.
+          - Endpoint compliance.
+
       - designation: Senior System Administrator
         start: Nov 2020
+        end: Oct 2021
         responsibilities:
           - Maintaining Ansible roles for Windows, Mac and Linux.
           - Contribute to complex Buildkite pipelines.
