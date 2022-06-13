@@ -41,7 +41,7 @@ skills:
 
   - name: MacOS
     logo: images/skills/apple.png
-    summary: "Used as the main operating system. MDM management, Jamf"
+    summary: "Used as the main operating system. MDM management, Micromdm, Autopkg, Munki"
 
   - name: Windows
     #    logo: images/skills/windows.png
