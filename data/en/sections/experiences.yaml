@@ -16,7 +16,7 @@ experiences:
       location: Remote
       overview: Groundbreaking gameplay enabled by Improbable technology.
     positions:
-      - designation: Senior System Administrator / Platform Engineer.
+      - designation: Senior System Administrator / Platform Engineer
         start: Oct 2021
         end: Aug 2022
         responsibilities:
@@ -26,7 +26,7 @@ experiences:
           - Kubernetes deployments.
           - Endpoint compliance (Osquery).
 
-      - designation: Senior System Administrator / Devops engineer
+      - designation: Senior System Administrator / Devops Engineer
         start: Nov 2020
         end: Oct 2021
         responsibilities:
