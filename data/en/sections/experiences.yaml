@@ -14,7 +14,6 @@ experiences:
       name: Improbable.io
       url: "https://improbable.io"
       location: Remote
-      # company overview
       overview: Groundbreaking gameplay enabled by Improbable technology.
     positions:
       - designation: Senior System Administrator / Platform Engineer.
@@ -41,9 +40,9 @@ experiences:
         end: Nov 2020
         responsibilities:
           - Teamlead gameserver infrastructure.
-          - Managing bare-metal infrastructure using Ansible.
           - Kubernetes deployments using Gitlab-ci.
           - Mainting Ansible roles for Windows and Linux.
+          - Managing bare-metal infrastructure using Ansible.
 
   - company:
       name: Zeuz.io
@@ -58,7 +57,7 @@ experiences:
           - Teamlead infrastructure.
           - K8S deployments using Gitlab-ci.
           - Managing bare-metal infrastructure using Ansible.
-          - Mainting Ansible roles for Windows and Linux.
+          - Writing Ansible roles for Windows and Linux.
           - Building a Docker based Platform for gameserver workloads.
 
   - company:
