@@ -24,14 +24,15 @@ experiences:
           - AutoPKG packaging for MacOS.
           - Endpoint management using Puppet.
           - Managing a Apple device fleet using Micromdm.
-          - Endpoint compliance.
+          - Endpoint compliance (Osquery).
 
-      - designation: Senior System Administrator
+      - designation: Senior System Administrator / Devops engineer
         start: Nov 2020
         end: Oct 2021
         responsibilities:
           - Maintaining Ansible roles for Windows, Mac and Linux.
           - Contribute to complex Buildkite pipelines.
+          - On-premise MacOS Build infrastructure.
 
       - designation: Senior System Administrator
         start: Feb 2020
