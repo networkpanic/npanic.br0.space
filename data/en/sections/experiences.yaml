@@ -24,6 +24,7 @@ experiences:
           - AutoPKG packaging for MacOS.
           - Endpoint management using Puppet.
           - Managing a Apple device fleet using Micromdm.
+          - Kubernetes deployments.
           - Endpoint compliance (Osquery).
 
       - designation: Senior System Administrator / Devops engineer
@@ -32,6 +33,7 @@ experiences:
         responsibilities:
           - Maintaining Ansible roles for Windows, Mac and Linux.
           - Contribute to complex Buildkite pipelines.
+          - Kubernetes deployments.
           - On-premise MacOS Build infrastructure.
 
       - designation: Senior System Administrator
@@ -40,7 +42,7 @@ experiences:
         responsibilities:
           - Teamlead gameserver infrastructure.
           - Managing bare-metal infrastructure using Ansible.
-          - K8S deployments using Gitlab-ci.
+          - Kubernetes deployments using Gitlab-ci.
           - Mainting Ansible roles for Windows and Linux.
 
   - company:
@@ -97,5 +99,6 @@ experiences:
         start: Oct 2015
         end: Oct 2016
         responsibilities:
+          - CI Pipelines using Gitlab.
           - LDAP/AD administration using Univention Corporate server.
           - Device management.
