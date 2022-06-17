@@ -6,7 +6,7 @@ section:
   enable: true
   weight: 2
   showOnNavbar: true
-  hideTitle: true
+  hideTitle: false
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.

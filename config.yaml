@@ -4,15 +4,18 @@ languageCode: en-us
 title: Martin Friedrich
 theme: toha
 googleAnalytics: UA-105747174-1
+
 languages:
   en:
     languageName: English
     weight: 1
+
 outputs:
   home:
     - HTML
     - RSS
     - JSON
+
 markup:
   goldmark:
     renderer:
@@ -23,16 +26,22 @@ markup:
     ordered: false
   highlight:
     guessSyntax: true
+
 enableEmoji: true
 enableGitInfo: true
+
 params:
   logo:
     main: /images/terminal.svg
     inverted: /images/terminal_inverted.svg
     favicon: /images/site/favicon.png
-  background: /images/site/the_eye.png
+#  background: /images/site/the_eye.png
   gitRepo: https://github.com/networkpanic/npanic.br0.space
   enableBlogPost: false
   enableTOC: true
   newsletter:
     enable: false
+  darkMode:
+    enable: true
+    provider: darkreader
+    default: system

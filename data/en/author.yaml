@@ -8,6 +8,8 @@ greeting: "Hi, I am"
 
 contactInfo:
   email: "npanic@br0.space"
+  github: networkpanic
+  linkedin: networkpanic
 #  phone: "+0123456789"
 
 summary:

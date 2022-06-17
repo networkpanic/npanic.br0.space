@@ -2,3 +2,11 @@
 
 copyright: "© 2022 Copyright."
 description: Portfolio and personal blog of Martin Friedrich.
+
+# Specify OpenGraph Headers
+openGraph:
+  title: About Martin Friedrich.
+  type: website
+  description: Portfolio and personal blog of Martin Friedrich.
+  image: images/avatar.png
+  url: https://npanic.br0.space/

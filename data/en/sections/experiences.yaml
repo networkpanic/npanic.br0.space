@@ -6,7 +6,7 @@ section:
   enable: true
   weight: 3
   showOnNavbar: true
-  hideTitle: true
+  hideTitle: false
 
 
 experiences:
