@@ -1,20 +1,18 @@
+---
 baseURL: https://npanic.br0.space/
 languageCode: en-us
-title: "Martin Friedrich"
-theme: "toha"
+title: Martin Friedrich
+theme: toha
 googleAnalytics: UA-105747174-1
-
 languages:
   en:
     languageName: English
     weight: 1
-
 outputs:
   home:
-  - HTML
-  - RSS
-  - JSON
-
+    - HTML
+    - RSS
+    - JSON
 markup:
   goldmark:
     renderer:
@@ -27,8 +25,6 @@ markup:
     guessSyntax: true
 enableEmoji: true
 enableGitInfo: true
-
-# Site parameters
 params:
   logo:
     main: /images/terminal.svg
@@ -38,8 +34,5 @@ params:
   gitRepo: https://github.com/networkpanic/npanic.br0.space
   enableBlogPost: false
   enableTOC: true
-
-  # Provide newsletter configuration. This feature hasn't been implemented yet.
-  # Currently, you can just hide it from the footer.
   newsletter:
     enable: false
