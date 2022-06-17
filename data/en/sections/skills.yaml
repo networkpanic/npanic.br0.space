@@ -44,7 +44,7 @@ skills:
     summary: "Used as the main operating system. MDM management, Micromdm, Autopkg, Munki"
 
   - name: Windows
-    #    logo: images/skills/windows.png
+    logo: images/skills/windows.png
     summary: "AzureAD/Intune endpoint management. "
 
   - name: Git
