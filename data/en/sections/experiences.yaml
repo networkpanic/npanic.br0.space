@@ -70,6 +70,13 @@ experiences:
         start: Jun 2018
         end: Jan 2019
         responsibilities:
+          - Google Workspace Administration.
+          - Infrastructure management.
+
+      - designation: DevOps Engineer
+        start: Jun 2018
+        end: Jan 2019
+        responsibilities:
           - Microservice deployments using Gitlab-CI.
           - Migration of existing CI pipelines from Jenkins to Gitlab.
 
@@ -96,7 +103,7 @@ experiences:
     positions:
       - designation: System administrator
         start: Oct 2015
-        end: Oct 2016
+        end: Oct 2017
         responsibilities:
           - CI Pipelines using Gitlab.
           - LDAP/AD administration using Univention Corporate server.

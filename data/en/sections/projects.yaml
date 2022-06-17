@@ -20,6 +20,15 @@ buttons:
 
 # your projects
 projects:
+
+  - name: Aboutme
+    role: maintainer
+    logo: images/projects/terminal.png
+    timeline: "March 2016 - Present"
+    url: "https://github.com/networkpanic/npanic.br0.space"
+    summary: "My CV and Aboutme Page."
+    tags: ["dotfiles", "hugo", "golang", "CV", "Aboutme"]
+
   - name: Dotfiles
     role: Package maintainer
     logo: images/projects/terminal.png
