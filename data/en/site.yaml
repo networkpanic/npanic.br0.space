@@ -8,5 +8,5 @@ openGraph:
   title: About Martin Friedrich.
   type: website
   description: Portfolio and personal blog of Martin Friedrich.
-  image: images/avatar.png
+  image: "images/avatar.png"
   url: https://npanic.br0.space/
