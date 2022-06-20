@@ -8,7 +8,6 @@ section:
   showOnNavbar: true
   hideTitle: false
 
-
 experiences:
   - company:
       name: Improbable.io
@@ -20,33 +19,27 @@ experiences:
         start: Oct 2021
         end: Aug 2022
         responsibilities:
-          - AutoPKG packaging for MacOS
-          - Endpoint management (Puppet)
-          - Configuration Management (Ansible, Terraform)
-          - Apple mdm (MicroMDM)
-          - Kubernetes deployments
-          - Endpoint compliance (Osquery)
-          - Code Scanning (SonarQube)
-
-
+          - Code Security (SonarQube, Whitesource, Renovate)
+          - Continous Delivery on Kubernetes (Github Actions, Buildkite)
+          - Infrastructure Configuration Management (Ansible, Puppet, Terraform)
+          - Mobile device management of Apple, Windows and Linux Endpoints (Micromdm, AzureAD, Puppet)
+          - Package Management (AutoPKG, Intune, Debian apt)
       - designation: Devops Engineer
         start: Nov 2020
         end: Oct 2021
         responsibilities:
+          - CI/CD support for internal Customers
           - Configuration Management (Ansible, Packer, Terraform)
-          - Contribute to complex Buildkite pipelines
-          - Kubernetes deployments
-          - On-premise MacOS Build infrastructure
-
-
+          - Kubernetes deployments (Gitlab-CI, Buildkite, Github Aciions)
+          - On-premise MacOS Build infrastructure (Anka)
       - designation: Senior System Administrator / Teamlead
         start: Feb 2020
         end: Nov 2020
         responsibilities:
-          - Team lead game server infrastructure
-          - Kubernetes deployments using Gitlab-CI
+          - Cluster administration (Docker Swarm, Kubernetes)
           - Configuration Management (Ansible, Packer, Terraform)
-
+          - Kubernetes deployments (Gitlab-CI, Buildkite)
+          - Mentoring a Trainee
   - company:
       name: Zeuz.io
       url: "https://zeuz.io"
@@ -57,12 +50,14 @@ experiences:
         start: Jan 2019
         end: Feb 2020
         responsibilities:
-          - Mentoring a Trainee
-          - Kubernetes deployments using Gitlab-ci
-          - Managing bare-metal infrastructure using Ansible
-          - Configuration Management using Ansible & Terraform
           - Building a Docker based gameserver Platform
-
+          - Cluster administration (Docker Swarm, Kubernetes)
+          - Code Security (Gitlab SAST/DAST)
+          - Configuration Management (Ansible, Terraform, Packer)
+          - Continous Delivery on Kubernetes (Gitlab-CI, Buildkite)
+          - Database Administration (Elasticsearch, Redis Cluster, Postgre)
+          - Managing bare-metal infrastructure (Ansible)
+          - Mentoring a Trainee
   - company:
       name: Daypaio
       url: "https://daypaio.com"
@@ -73,12 +68,11 @@ experiences:
         start: Jun 2018
         end: Jan 2019
         responsibilities:
-          - Google Workspace Administration.
-          - Infrastructure management
-          - Kubernetes deployments using Gitlab-CI
-          - Migration of CI pipelines from Jenkins to Gitlab-ci
-          - MongoDB Cluster administration
-
+          - Configuration Management (Ansible)
+          - Continous Delivery on Kubernetes (Gitlab-CI)
+          - Database Administration (MongoDB, Redis Cluster)
+          - Migration of CI/CD pipelines from Jenkins to Gitlab-CI
+          - Platform Administration (Google Workspace, Atlassian, Slack)
   - company:
       name: Draglet GmbH
       url: "https://draglet.com"
@@ -89,12 +83,12 @@ experiences:
         start: Oct 2017
         end: May 2018
         responsibilities:
-          - Configuration Management (Ansible)
           - Administration of Crypto Assets
-          - Recruiting team members
+          - Configuration Management (Ansible)
+          - Continous Delivery of Java Applications (Gitlab-CI)
+          - Migration of CI pipelines from Jenkins to Gitlab-CI
           - Monitoring (Icinga, Prometheus)
-          - Migration of CI pipelines from Jenkins to Gitlab-ci
-
+          - Recruiting team members
   - company:
       name: Hörer und Flamme
       url: "https://hoerer-flamme.com/"
@@ -105,11 +99,12 @@ experiences:
         start: Oct 2015
         end: Oct 2017
         responsibilities:
-          - CI Pipelines using Gitlab-ci
-          - Univention Corporate server (UCS) Domain Administration
-          - Microsoft AD Administration
-          - Device management
-          - Automate provisioning of PHP based Web Applications
+          - Configuration Management (Ansible)
+          - Continous Delivery of PHP Applications (Gitlab-CI)
           - Data Compliance
           - Data imports for Marketing Campaigns
+          - Device management
+          - Directory Administration (ActiveDirectory, AzureAD, LDAP, Univention Corporate Server)
           - Mentoring a Trainee
+          - PBX Administration (Asterisk, Pascom MobyDick)
+          - Running On-premise Build infrastructure (Gitlab-CI)
