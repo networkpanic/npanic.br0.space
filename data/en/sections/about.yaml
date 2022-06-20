@@ -8,7 +8,7 @@ section:
   showOnNavbar: true
   template: sections/about.html
 
-designation: Software Engineer
+designation: Senior System Administrator / CPE
 
 company:
   name: Improbable Ltd
@@ -25,10 +25,6 @@ socialLinks:
   - name: Github
     icon: "fab fa-github"
     url: "https://github.com/networkpanic"
-
-  - name: Stackoverflow
-    icon: "fab fa-stack-overflow"
-    url: "#"
 
   - name: LinkedIn
     icon: "fab fa-linkedin"
@@ -47,16 +43,16 @@ softSkills:
     color: blue
   - name: Collaboration & Teamwork
     percentage: 90
-    color: yellow
+    color: orange
   - name: Adaptability
     percentage: 60
-    color: pink
+    color: yellow
   - name: Active Learning
     percentage: 65
-    color: green
+    color: sky
   - name: Good Communication
     percentage: 85
-    color: sky
+    color: pink
   - name: Problem Solving
     percentage: 80
-    color: orange
+    color: green

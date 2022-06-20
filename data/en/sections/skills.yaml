@@ -8,31 +8,53 @@ section:
   showOnNavbar: true
   hideTitle: false
 
-# Your Skills.
-# Give a summary of you each skill in the summary section.
 skills:
   - name: Ansible
     logo: images/skills/ansible.png
-    summary: "Write and maintain playbooks and roles."
+    summary: "My favourite Config Management tool. Experienced in writing roles for MacOS, Windows and Linux targets."
     url: "https://www.ansible.com/"
 
   - name: Cloud Computing
     logo: images/skills/cloud.png
-    summary: "Worked with most of the major cloud providers such as GCP, AWS, Azure etc."
+    summary: "Worked with most of the major cloud providers such as GCP, Azure, Hetzner Cloud, Linode, DigitalOcean etc."
 
-  - name: Docker
-    logo: images/skills/docker.png
-    summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build processes."
-    url: "https://www.docker.com/"
- 
+  - name: Container
+    logo: images/skills/container.png
+    summary: >
+            Experienced most container technologies (OpenVZ, lxc, Docker, containerD).
+            Capable of creating multi-stage, multi-arch build processes. 
+            Experience with Windows Containers. 
+
+  - name: Git
+    logo: images/skills/git.png
+    summary: "Experienced in using Git for code versioning on a daily base."
+    url: "https://git-scm.com/"
+
+
+  - name: Gitlab
+    logo: images/skills/gitlab.png
+    summary: >
+            Experienced in hosting multiple Gitlab Ultimate instances on Kubernetes. 
+            Capable of deploying Applications using Gitlab-CI. 
+            Migrated multiple Jenkins setups to Gitlab-CI.
+    url: "https://gitlab.com/"
+
+  - name: Google Workspace
+    logo: images/skills/googleworkspace.png
+    summary: "Capable of setting up Google Workspace, BeyondCorp and Signle-Sign-On."
+
   - name: Kubernetes
     logo: images/skills/kubernetes.png
-    summary: "Capable of deploying and managing applications on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+    summary: >
+            Experienced in using most common Kubernetes Distributions. 
+            Capable of deploying and managing applications on Kubernetes. 
     url: "https://kubernetes.io/"
 
   - name: Prometheus
     logo: images/skills/prometheus.png
-    summary: "Capable of setting up and configuring Prometheus metrics. Experienced with PromQL, AlertManager and writing metric exporters."
+    summary: >
+            Experienced with PromQL, AlertManager, Victoria metrics, Thanos.
+            Capable of setting up alerting pipelines and configuring metrics. 
     url: "https://prometheus.io/"
 
   - name: Linux
@@ -41,13 +63,8 @@ skills:
 
   - name: MacOS
     logo: images/skills/apple.png
-    summary: "Used as the main operating system. MDM management, Micromdm, Autopkg, Munki."
+    summary: "Used as the main operating system on Desktops. Experienced in MDM (Micromdm, Autopkg, Munki) and Virtualisation (Anka, tart}"
 
   - name: Windows
     logo: images/skills/windows.png
-    summary: "Years of Administration experience & AzureAD/Intune endpoint management."
-
-  - name: Git
-    logo: images/skills/git.png
-    summary: "Experienced with git-based development. Mostly Github. Experienced with GitLab."
-    url: "https://git-scm.com/"
+    summary: "Experienced in & AzureAD/Intune endpoint management. Capable of replacing AD with opensource technology"

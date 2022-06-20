@@ -32,6 +32,7 @@ experiences:
           - CI/CD support for internal Customers
           - Configuration Management (Ansible, Packer, Terraform)
           - Kubernetes deployments (Gitlab-CI, Buildkite, Github Aciions)
+          - Monitoring & Alerting (Prometheus stack, ELK stack, Thanos)
           - On-premise MacOS Build infrastructure (Anka)
       - designation: Senior System Administrator / Teamlead
         start: Feb 2020
@@ -39,8 +40,10 @@ experiences:
         responsibilities:
           - Cluster administration (Docker Swarm, Kubernetes)
           - Configuration Management (Ansible, Packer, Terraform)
+          - Database Administration (Elasticsearch, Redis Cluster, Postgre)
           - Kubernetes deployments (Gitlab-CI, Buildkite)
           - Mentoring a Trainee
+          - Monitoring & Alerting (Prometheus, Victoria-metrics, ELK, Thanos)
   - company:
       name: Zeuz.io
       url: "https://zeuz.io"
@@ -53,14 +56,15 @@ experiences:
         responsibilities:
           - Building a Docker based gameserver Platform
           - Cluster administration (Docker Swarm, Kubernetes)
-          - Code Security (Gitlab SAST/DAST)
           - Configuration Management (Ansible, Terraform, Packer)
           - Continous Delivery on Kubernetes (Gitlab-CI, Buildkite)
+          - Continous Security (Gitlab SAST/DAST)
           - Database Administration (Elasticsearch, Redis Cluster, Postgre)
           - Managing bare-metal infrastructure (Ansible)
           - Mentoring a Trainee
+          - Monitoring & Alerting (Prometheus, Victoria-metrics, ELK, Thanos)
   - company:
-      name: Daypaio
+      name: Daypaio GmbH
       url: "https://daypaio.com"
       location: Munich/Germany
       overview: CRM as a Service
@@ -70,9 +74,11 @@ experiences:
         end: Jan 2019
         responsibilities:
           - Configuration Management (Ansible)
+          - Continous Security (Gitlab SAST/DAST)
           - Continous Delivery on Kubernetes (Gitlab-CI)
           - Database Administration (MongoDB, Redis Cluster)
-          - Migration of CI/CD pipelines from Jenkins to Gitlab-CI
+          - Migration of CI/CD pipelines from Bamboo, Jenkins to Gitlab-CI
+          - Monitoring & Alerting (Prometheus stack)
           - Platform Administration (Google Workspace, Atlassian, Slack)
   - company:
       name: Draglet GmbH
@@ -87,11 +93,13 @@ experiences:
           - Administration of Crypto Assets
           - Configuration Management (Ansible)
           - Continous Delivery of Java Applications (Gitlab-CI)
+          - Firewall & VPN Administration (opnSense, OpenVPN, strongswan)
           - Migration of CI pipelines from Jenkins to Gitlab-CI
-          - Monitoring (Icinga, Prometheus)
+          - Monitoring & Alerting (Icinga, Prometheus)
+          - Platform Administration (Google Workspace, Atlassian, Slack)
           - Recruiting team members
   - company:
-      name: Hörer und Flamme
+      name: Hörer und Flamme GmbH
       url: "https://hoerer-flamme.com/"
       location: Munich/Germany
       overview: Telemarketing agency.
@@ -102,10 +110,11 @@ experiences:
         responsibilities:
           - Configuration Management (Ansible)
           - Continous Delivery of PHP Applications (Gitlab-CI)
-          - Data Compliance
           - Data imports for Marketing Campaigns
           - Device management
           - Directory Administration (ActiveDirectory, AzureAD, LDAP, Univention Corporate Server)
+          - Firewall & VPN Administration (pfSense, OpenVPN, strongswan)
           - Mentoring a Trainee
+          - Monitoring & Alerting (Nagios, check_mk)
           - PBX Administration (Asterisk, Pascom MobyDick)
-          - Running On-premise Build infrastructure (Gitlab-CI)
+          - Running On-premise Infrastructure (Proxmox, FreeNAS)
