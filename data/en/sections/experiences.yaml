@@ -75,7 +75,7 @@ experiences:
         responsibilities:
           - Configuration Management (Ansible)
           - Continous Security (Gitlab SAST/DAST)
-          - Continous Delivery on Kubernetes (Gitlab-CI)
+          - Continous Delivery of NodeJS Applications (Gitlab-CI)
           - Database Administration (MongoDB, Redis Cluster)
           - Migration of CI/CD pipelines from Bamboo, Jenkins to Gitlab-CI
           - Monitoring & Alerting (Prometheus stack)

@@ -1,5 +1,4 @@
 ---
-
 section:
   name: About
   id: about
@@ -12,31 +11,26 @@ designation: Senior System Administrator / CPE
 
 company:
   name: Improbable Ltd
-  url: "https://improbable.io"
+  url: https://improbable.io
 
-# resume: "files/resume.pdf"
-summary: 'I am a passionate geek which spend most of his time on automating things.'
-
+summary: |
+  I'm an Sysops/DevOps engineer with 5+ years of experience in supporting deployments over big infrastructure.
+  Proficient in IaC and Mobile Device Management. 
+  Led a team of 6 at Zeuz GmbH, creating a bare-metal Kubernetes orchestrator. 
+  I've turned things into Containers before Kubernetes was born and used on production infrastructure.
 socialLinks:
   - name: Email
-    icon: "fas fa-envelope"
-    url: "npanic@br0.space"
-
+    icon: fas fa-envelope
+    url: npanic@br0.space
   - name: Github
-    icon: "fab fa-github"
-    url: "https://github.com/networkpanic"
-
+    icon: fab fa-github
+    url: https://github.com/networkpanic
   - name: LinkedIn
-    icon: "fab fa-linkedin"
-    url: "https://linkedin.com/in/networkpanic/"
-
+    icon: fab fa-linkedin
+    url: https://linkedin.com/in/networkpanic/
   - name: Twitter
-    icon: "fab fa-twitter"
-    url: "https://twitter.com/Panic_Network"
-
-# your soft skills
-# give the percentage between 50 to 100 with 5 intervals.
-# currently supported colors: blue, yellow, pink, green, sky, orange
+    icon: fab fa-twitter
+    url: https://twitter.com/Panic_Network
 softSkills:
   - name: Critical thinking
     percentage: 75

@@ -27,7 +27,7 @@ projects:
     timeline: "March 2016 - Present"
     url: "https://github.com/networkpanic/npanic.br0.space"
     summary: "My CV and Aboutme Page."
-    tags: ["dotfiles", "hugo", "golang", "CV", "Aboutme"]
+    tags: ["dotfiles", "hugo", "golang", "CV", "Aboutme", "professional"]
 
   - name: Dotfiles
     role: Package maintainer
@@ -51,4 +51,4 @@ projects:
     timeline: "March 2021 - Present"
     url: "https://github.com/networkpanic/home-infra"
     summary: "My Homelab running k3s & FluxCD"
-    tags: ["k3s", "gitops", "flux"]
+    tags: ["k3s", "gitops", "flux", "professional"]
