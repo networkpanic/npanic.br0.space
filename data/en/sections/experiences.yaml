@@ -22,7 +22,7 @@ experiences:
           - Code Security (SonarQube, Whitesource, Renovate)
           - Continuous Delivery on Kubernetes (Github Actions, Buildkite)
           - Infrastructure Configuration Management (Ansible, Puppet, Terraform)
-          - Mobile Device management of (Micromdm, AzureAD, Puppet)
+          - Mobile Device management (Micromdm, AzureAD, Puppet)
           - Package Management (AutoPKG, Intune, Debian apt)
           - Platform Administration (Google Workspace, Atlassian, Slack, Office365)
       - designation: Devops Engineer
