@@ -19,29 +19,29 @@ experiences:
         start: Oct 2021
 #        end: Aug 2022
         responsibilities:
-          - Code Security (SonarQube, Whitesource, Renovate)
-          - Continuous Delivery on Kubernetes (Github Actions, Buildkite)
-          - Infrastructure Configuration Management (Ansible, Puppet, Terraform)
-          - Mobile Device management (Micromdm, AzureAD, Puppet)
+          - Code security (SonarQube, Whitesource, Renovate)
+          - Continuous delivery on Kubernetes (Github Actions, Buildkite)
+          - Infrastructure Configuration management (Ansible, Puppet, Terraform)
+          - Mobile device management (Micromdm, AzureAD, Puppet)
           - Package Management (AutoPKG, Intune, Debian apt)
           - Platform Administration (Google Workspace, Atlassian, Slack, Office365)
       - designation: Devops Engineer
         start: Nov 2020
         end: Oct 2021
         responsibilities:
-          - CI/CD support for internal Customers
-          - Configuration Management (Ansible, Packer, Terraform)
-          - Continuous Delivery on Kubernetes (Gitlab-CI, Buildkite, Github Actions)
+          - CI/CD support for internal customers
+          - Configuration management (Ansible, Packer, Terraform)
+          - Continuous delivery on Kubernetes (Gitlab-CI, Buildkite, Github Actions)
           - Migration of CI pipelines from Gitlab-CI to Buildkite
           - Monitoring & Alerting (Prometheus stack, ELK stack, Thanos)
-          - on-premise MacOS Build infrastructure (Anka)
+          - on-premise MacOS build infrastructure (Anka)
       - designation: Senior System Administrator / Teamlead
         start: Feb 2020
         end: Nov 2020
         responsibilities:
           - Cluster administration (Docker Swarm, Kubernetes)
-          - Configuration Management (Ansible, Packer, Terraform)
-          - Continuous Delivery on Kubernetes (Gitlab-CI, Buildkite)
+          - Configuration management (Ansible, Packer, Terraform)
+          - Continuous delivery on Kubernetes (Gitlab-CI, Buildkite)
           - Database Administration (Elasticsearch, Redis Cluster, Postgres)
           - Mentoring a trainee
           - Monitoring & Alerting (Prometheus, Victoria-metrics, ELK, Thanos)
@@ -55,11 +55,11 @@ experiences:
         start: Jan 2019
         end: Feb 2020
         responsibilities:
-          - Building a Docker based gameserver Platform
+          - Building a Docker based game-server platform
           - Cluster administration (Docker Swarm, Kubernetes)
-          - Configuration Management (Ansible, Terraform, Packer)
-          - Continuous Delivery on Kubernetes (Gitlab-CI, Buildkite)
-          - Continuous Security (Gitlab SAST/DAST)
+          - Configuration management (Ansible, Terraform, Packer)
+          - Continuous delivery on Kubernetes (Gitlab-CI, Buildkite)
+          - Continuous security (Gitlab SAST/DAST)
           - Database Administration (Elasticsearch, Redis Cluster, Postgres)
           - Managing bare-metal infrastructure (Ansible)
           - Mentoring a trainee
@@ -74,9 +74,9 @@ experiences:
         start: Jun 2018
         end: Jan 2019
         responsibilities:
-          - Configuration Management (Ansible)
-          - Continuous Security (Gitlab SAST/DAST)
-          - Continuous Delivery of NodeJS Applications (Gitlab-CI)
+          - Configuration management (Ansible)
+          - Continuous security (Gitlab SAST/DAST)
+          - Continuous delivery of NodeJS Applications (Gitlab-CI)
           - Database Administration (MongoDB, Redis Cluster)
           - Migration of CI/CD pipelines from Bamboo, Jenkins to Gitlab-CI
           - Monitoring & Alerting (Prometheus stack)
@@ -92,8 +92,8 @@ experiences:
         end: May 2018
         responsibilities:
           - Administration of Crypto Assets
-          - Configuration Management (Ansible)
-          - Continuous Delivery of Java Applications (Gitlab-CI)
+          - Configuration management (Ansible)
+          - Continuous delivery of Java Applications (Gitlab-CI)
           - Database Administration (MariaDB)
           - Firewall & VPN Administration (opnSense, OpenVPN, strongswan)
           - Migration of CI pipelines from Jenkins to Gitlab-CI
@@ -110,13 +110,13 @@ experiences:
         start: Oct 2015
         end: Oct 2017
         responsibilities:
-          - Configuration Management (Ansible)
-          - Continuous Delivery of PHP Applications (Gitlab-CI)
-          - Data imports for Marketing Campaigns
+          - Configuration management (Ansible)
+          - Continuous delivery of PHP Applications (Gitlab-CI)
+          - Data imports for marketing campaigns
           - Device management
           - Directory Administration (ActiveDirectory, AzureAD, LDAP, Univention Corporate Server)
           - Firewall & VPN Administration (pfSense, OpenVPN, strongswan)
           - Mentoring a trainee
           - Monitoring & Alerting (Nagios, check_mk)
           - PBX Administration (Asterisk, Pascom MobyDick)
-          - Running on-premise Infrastructure (Proxmox, FreeNAS)
+          - Running on-premise infrastructure (Proxmox, FreeNAS)
