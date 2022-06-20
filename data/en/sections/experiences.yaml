@@ -22,7 +22,7 @@ experiences:
           - Code Security (SonarQube, Whitesource, Renovate)
           - Continous Delivery on Kubernetes (Github Actions, Buildkite)
           - Infrastructure Configuration Management (Ansible, Puppet, Terraform)
-          - Mobile device management of Apple, Windows and Linux Endpoints (Micromdm, AzureAD, Puppet)
+          - Mobile Device management of (Micromdm, AzureAD, Puppet)
           - Package Management (AutoPKG, Intune, Debian apt)
           - Platform Administration (Google Workspace, Atlassian, Slack, Office365)
       - designation: Devops Engineer
@@ -31,7 +31,7 @@ experiences:
         responsibilities:
           - CI/CD support for internal Customers
           - Configuration Management (Ansible, Packer, Terraform)
-          - Kubernetes deployments (Gitlab-CI, Buildkite, Github Aciions)
+          - Continous Delivery on Kubernetes (Gitlab-CI, Buildkite, Github Actions)
           - Monitoring & Alerting (Prometheus stack, ELK stack, Thanos)
           - On-premise MacOS Build infrastructure (Anka)
       - designation: Senior System Administrator / Teamlead
@@ -40,8 +40,8 @@ experiences:
         responsibilities:
           - Cluster administration (Docker Swarm, Kubernetes)
           - Configuration Management (Ansible, Packer, Terraform)
+          - Continous Delivery on Kubernetes (Gitlab-CI, Buildkite)
           - Database Administration (Elasticsearch, Redis Cluster, Postgre)
-          - Kubernetes deployments (Gitlab-CI, Buildkite)
           - Mentoring a Trainee
           - Monitoring & Alerting (Prometheus, Victoria-metrics, ELK, Thanos)
   - company:
