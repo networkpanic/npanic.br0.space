@@ -21,7 +21,7 @@ skills:
   - name: Container
     logo: images/skills/container.png
     summary: >
-            Experienced most container technologies (OpenVZ, lxc, Docker, containerD).
+            Experienced in most container technologies (OpenVZ, lxc, Docker, containerD).
             Capable of creating multi-stage, multi-arch build processes. 
             Experience with Windows Containers. 
 
