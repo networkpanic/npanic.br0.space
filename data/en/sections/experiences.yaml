@@ -17,13 +17,14 @@ experiences:
     positions:
       - designation: Platform Engineer
         start: Oct 2021
-        end: Aug 2022
+#        end: Aug 2022
         responsibilities:
           - Code Security (SonarQube, Whitesource, Renovate)
           - Continous Delivery on Kubernetes (Github Actions, Buildkite)
           - Infrastructure Configuration Management (Ansible, Puppet, Terraform)
           - Mobile device management of Apple, Windows and Linux Endpoints (Micromdm, AzureAD, Puppet)
           - Package Management (AutoPKG, Intune, Debian apt)
+          - Platform Administration (Google Workspace, Atlassian, Slack, Office365)
       - designation: Devops Engineer
         start: Nov 2020
         end: Oct 2021
