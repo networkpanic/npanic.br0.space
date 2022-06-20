@@ -42,8 +42,8 @@ experiences:
           - Cluster administration (Docker Swarm, Kubernetes)
           - Configuration Management (Ansible, Packer, Terraform)
           - Continuous Delivery on Kubernetes (Gitlab-CI, Buildkite)
-          - Database Administration (Elasticsearch, Redis Cluster, Postgre)
-          - Mentoring a Trainee
+          - Database Administration (Elasticsearch, Redis Cluster, Postgres)
+          - Mentoring a trainee
           - Monitoring & Alerting (Prometheus, Victoria-metrics, ELK, Thanos)
   - company:
       name: Zeuz GmbH
@@ -60,9 +60,9 @@ experiences:
           - Configuration Management (Ansible, Terraform, Packer)
           - Continuous Delivery on Kubernetes (Gitlab-CI, Buildkite)
           - Continuous Security (Gitlab SAST/DAST)
-          - Database Administration (Elasticsearch, Redis Cluster, Postgre)
+          - Database Administration (Elasticsearch, Redis Cluster, Postgres)
           - Managing bare-metal infrastructure (Ansible)
-          - Mentoring a Trainee
+          - Mentoring a trainee
           - Monitoring & Alerting (Prometheus, Victoria-metrics, ELK, Thanos)
   - company:
       name: Daypaio GmbH
@@ -116,7 +116,7 @@ experiences:
           - Device management
           - Directory Administration (ActiveDirectory, AzureAD, LDAP, Univention Corporate Server)
           - Firewall & VPN Administration (pfSense, OpenVPN, strongswan)
-          - Mentoring a Trainee
+          - Mentoring a trainee
           - Monitoring & Alerting (Nagios, check_mk)
           - PBX Administration (Asterisk, Pascom MobyDick)
           - Running on-premise Infrastructure (Proxmox, FreeNAS)
