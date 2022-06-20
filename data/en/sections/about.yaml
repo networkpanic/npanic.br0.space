@@ -13,6 +13,7 @@ company:
   name: Improbable Ltd
   url: https://improbable.io
 
+resume: "files/resume.pdf"
 summary: |
   I'm a SysOps/DevOps Engineer with 5+ years of hands-on experience supporting, automating and optimizing mission-critical deployments on-premise and in the Cloud.
   Config Management and Device Management are my passion.
