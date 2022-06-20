@@ -10,7 +10,7 @@ section:
 
 experiences:
   - company:
-      name: Improbable.io
+      name: Improbable Ltd.
       url: "https://improbable.io"
       location: Remote
       overview: Groundbreaking gameplay enabled by Improbable technology.
@@ -20,7 +20,7 @@ experiences:
 #        end: Aug 2022
         responsibilities:
           - Code Security (SonarQube, Whitesource, Renovate)
-          - Continous Delivery on Kubernetes (Github Actions, Buildkite)
+          - Continuous Delivery on Kubernetes (Github Actions, Buildkite)
           - Infrastructure Configuration Management (Ansible, Puppet, Terraform)
           - Mobile Device management of (Micromdm, AzureAD, Puppet)
           - Package Management (AutoPKG, Intune, Debian apt)
@@ -31,7 +31,8 @@ experiences:
         responsibilities:
           - CI/CD support for internal Customers
           - Configuration Management (Ansible, Packer, Terraform)
-          - Continous Delivery on Kubernetes (Gitlab-CI, Buildkite, Github Actions)
+          - Continuous Delivery on Kubernetes (Gitlab-CI, Buildkite, Github Actions)
+          - Migration of CI pipelines from Gitlab-CI to Buildkite
           - Monitoring & Alerting (Prometheus stack, ELK stack, Thanos)
           - On-premise MacOS Build infrastructure (Anka)
       - designation: Senior System Administrator / Teamlead
@@ -40,12 +41,12 @@ experiences:
         responsibilities:
           - Cluster administration (Docker Swarm, Kubernetes)
           - Configuration Management (Ansible, Packer, Terraform)
-          - Continous Delivery on Kubernetes (Gitlab-CI, Buildkite)
+          - Continuous Delivery on Kubernetes (Gitlab-CI, Buildkite)
           - Database Administration (Elasticsearch, Redis Cluster, Postgre)
           - Mentoring a Trainee
           - Monitoring & Alerting (Prometheus, Victoria-metrics, ELK, Thanos)
   - company:
-      name: Zeuz.io
+      name: Zeuz GmbH
       url: "https://zeuz.io"
       location: Munich/Germany
       overview: Easy to use backend services for multiplayer games.
@@ -57,8 +58,8 @@ experiences:
           - Building a Docker based gameserver Platform
           - Cluster administration (Docker Swarm, Kubernetes)
           - Configuration Management (Ansible, Terraform, Packer)
-          - Continous Delivery on Kubernetes (Gitlab-CI, Buildkite)
-          - Continous Security (Gitlab SAST/DAST)
+          - Continuous Delivery on Kubernetes (Gitlab-CI, Buildkite)
+          - Continuous Security (Gitlab SAST/DAST)
           - Database Administration (Elasticsearch, Redis Cluster, Postgre)
           - Managing bare-metal infrastructure (Ansible)
           - Mentoring a Trainee
@@ -69,13 +70,13 @@ experiences:
       location: Munich/Germany
       overview: CRM as a Service
     positions:
-      - designation: Senior System Administrator
+      - designation: Senior System Administrator / DevOps Engineer
         start: Jun 2018
         end: Jan 2019
         responsibilities:
           - Configuration Management (Ansible)
-          - Continous Security (Gitlab SAST/DAST)
-          - Continous Delivery of NodeJS Applications (Gitlab-CI)
+          - Continuous Security (Gitlab SAST/DAST)
+          - Continuous Delivery of NodeJS Applications (Gitlab-CI)
           - Database Administration (MongoDB, Redis Cluster)
           - Migration of CI/CD pipelines from Bamboo, Jenkins to Gitlab-CI
           - Monitoring & Alerting (Prometheus stack)
@@ -86,13 +87,14 @@ experiences:
       location: Munich/Germany
       overview: Cryptocurrency as a Service provider.
     positions:
-      - designation: Teamlead Infrastructure
+      - designation: System Administrator / Teamlead Infrastructure
         start: Oct 2017
         end: May 2018
         responsibilities:
           - Administration of Crypto Assets
           - Configuration Management (Ansible)
-          - Continous Delivery of Java Applications (Gitlab-CI)
+          - Continuous Delivery of Java Applications (Gitlab-CI)
+          - Database Administration (MariaDB)
           - Firewall & VPN Administration (opnSense, OpenVPN, strongswan)
           - Migration of CI pipelines from Jenkins to Gitlab-CI
           - Monitoring & Alerting (Icinga, Prometheus)
@@ -109,7 +111,7 @@ experiences:
         end: Oct 2017
         responsibilities:
           - Configuration Management (Ansible)
-          - Continous Delivery of PHP Applications (Gitlab-CI)
+          - Continuous Delivery of PHP Applications (Gitlab-CI)
           - Data imports for Marketing Campaigns
           - Device management
           - Directory Administration (ActiveDirectory, AzureAD, LDAP, Univention Corporate Server)

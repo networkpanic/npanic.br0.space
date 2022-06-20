@@ -31,12 +31,15 @@ enableEmoji: true
 enableGitInfo: true
 
 params:
+  background: /images/site/the_eye.png
   logo:
     main: /images/terminal.svg
     inverted: /images/terminal_inverted.svg
     favicon: /images/site/favicon.png
-  background: /images/site/the_eye.png
+
   gitRepo: https://github.com/networkpanic/npanic.br0.space
+  gitBranch: main
+
   enableBlogPost: false
   enableTOC: true
   # Show tags under the post title
