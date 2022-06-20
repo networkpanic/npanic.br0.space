@@ -15,7 +15,7 @@ company:
 
 resume: "files/resume.pdf"
 summary: |
-  I'm a SysOps/DevOps Engineer with 5+ years of hands-on experience supporting, automating and optimising mission-critical deployments on-premise and in the Cloud.
+  I'm a SysOps/DevOps Engineer with 5+ years of hands-on experience supporting, automating and optimizing mission-critical deployments on-premise and in the Cloud.
   Config Management and Device Management are my passion.
   Led a team of 6 at Zeuz GmbH that created a bare-metal orchestrator for Kubernetes based Gameserver workloads.
 socialLinks:
@@ -32,15 +32,15 @@ socialLinks:
     icon: fab fa-twitter
     url: https://twitter.com/Panic_Network
 softSkills:
-  - name: Critical thinking
-    percentage: 75
-    color: blue
+  - name: Adaptability
+    percentage: 80
+    color: yellow
   - name: Collaboration & Teamwork
     percentage: 90
     color: orange
-  - name: Adaptability
-    percentage: 60
-    color: yellow
+  - name: Critical thinking
+    percentage: 75
+    color: blue
   - name: Active Learning
     percentage: 65
     color: sky
