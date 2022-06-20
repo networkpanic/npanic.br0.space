@@ -15,7 +15,7 @@ company:
 
 resume: "files/resume.pdf"
 summary: |
-  I'm a SysOps/DevOps Engineer with 5+ years of hands-on experience supporting, automating and optimizing mission-critical deployments on-premise and in the Cloud.
+  I'm a SysOps/DevOps Engineer with 5+ years of hands-on experience supporting, automating and optimising mission-critical deployments on-premise and in the Cloud.
   Config Management and Device Management are my passion.
   Led a team of 6 at Zeuz GmbH that created a bare-metal orchestrator for Kubernetes based Gameserver workloads.
 socialLinks:
