@@ -14,10 +14,9 @@ company:
   url: https://improbable.io
 
 summary: |
-  I'm an Sysops/DevOps engineer with 5+ years of experience in supporting deployments over big infrastructure.
-  Proficient in IaC and Mobile Device Management. 
-  Led a team of 6 at Zeuz GmbH, creating a bare-metal Kubernetes orchestrator. 
-  I've turned things into Containers before Kubernetes was born and used on production infrastructure.
+  I'm a SysOps/DevOps Engineer with 5+ years of hands-on experience supporting, automating and optimizing mission-critical deployments on-premise and in the Cloud.
+  Config Management and Device Management are my passion.
+  Led a team of 6 at Zeuz GmbH that created a bare-metal orchestrator for Kubernetes based Gameserver workloads.
 socialLinks:
   - name: Email
     icon: fas fa-envelope

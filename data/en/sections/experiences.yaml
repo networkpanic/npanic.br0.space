@@ -34,7 +34,7 @@ experiences:
           - Continuous Delivery on Kubernetes (Gitlab-CI, Buildkite, Github Actions)
           - Migration of CI pipelines from Gitlab-CI to Buildkite
           - Monitoring & Alerting (Prometheus stack, ELK stack, Thanos)
-          - On-premise MacOS Build infrastructure (Anka)
+          - on-premise MacOS Build infrastructure (Anka)
       - designation: Senior System Administrator / Teamlead
         start: Feb 2020
         end: Nov 2020
@@ -119,4 +119,4 @@ experiences:
           - Mentoring a Trainee
           - Monitoring & Alerting (Nagios, check_mk)
           - PBX Administration (Asterisk, Pascom MobyDick)
-          - Running On-premise Infrastructure (Proxmox, FreeNAS)
+          - Running on-premise Infrastructure (Proxmox, FreeNAS)
