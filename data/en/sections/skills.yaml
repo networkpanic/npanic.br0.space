@@ -41,11 +41,11 @@ skills:
 
   - name: MacOS
     logo: images/skills/apple.png
-    summary: "Used as the main operating system. MDM management, Micromdm, Autopkg, Munki"
+    summary: "Used as the main operating system. MDM management, Micromdm, Autopkg, Munki."
 
   - name: Windows
     logo: images/skills/windows.png
-    summary: "AzureAD/Intune endpoint management. "
+    summary: "Years of Administration experience & AzureAD/Intune endpoint management."
 
   - name: Git
     logo: images/skills/git.png

@@ -20,29 +20,32 @@ experiences:
         start: Oct 2021
         end: Aug 2022
         responsibilities:
-          - AutoPKG packaging for MacOS.
-          - Endpoint management using Puppet.
-          - Managing a Apple device fleet using Micromdm.
-          - Kubernetes deployments.
-          - Endpoint compliance (Osquery).
+          - AutoPKG packaging for MacOS
+          - Endpoint management (Puppet)
+          - Configuration Management (Ansible, Terraform)
+          - Apple mdm (MicroMDM)
+          - Kubernetes deployments
+          - Endpoint compliance (Osquery)
+          - Code Scanning (SonarQube)
+
 
       - designation: Devops Engineer
         start: Nov 2020
         end: Oct 2021
         responsibilities:
-          - Maintaining Ansible roles for Windows, Mac and Linux.
-          - Contribute to complex Buildkite pipelines.
-          - Kubernetes deployments.
-          - On-premise MacOS Build infrastructure.
+          - Configuration Management (Ansible, Packer, Terraform)
+          - Contribute to complex Buildkite pipelines
+          - Kubernetes deployments
+          - On-premise MacOS Build infrastructure
 
-      - designation: Senior System Administrator
+
+      - designation: Senior System Administrator / Teamlead
         start: Feb 2020
         end: Nov 2020
         responsibilities:
-          - Teamlead gameserver infrastructure.
-          - Kubernetes deployments using Gitlab-ci.
-          - Mainting Ansible roles for Windows and Linux.
-          - Managing bare-metal infrastructure using Ansible.
+          - Team lead game server infrastructure
+          - Kubernetes deployments using Gitlab-CI
+          - Configuration Management (Ansible, Packer, Terraform)
 
   - company:
       name: Zeuz.io
@@ -50,15 +53,15 @@ experiences:
       location: Munich/Germany
       overview: Easy to use backend services for multiplayer games.
     positions:
-      - designation: Senior System Administrator
+      - designation: Senior System Administrator / Teamlead
         start: Jan 2019
         end: Feb 2020
         responsibilities:
-          - Teamlead infrastructure.
-          - K8S deployments using Gitlab-ci.
-          - Managing bare-metal infrastructure using Ansible.
-          - Writing Ansible roles for Windows and Linux.
-          - Building a Docker based Platform for gameserver workloads.
+          - Mentoring a Trainee
+          - Kubernetes deployments using Gitlab-ci
+          - Managing bare-metal infrastructure using Ansible
+          - Configuration Management using Ansible & Terraform
+          - Building a Docker based gameserver Platform
 
   - company:
       name: Daypaio
@@ -71,9 +74,10 @@ experiences:
         end: Jan 2019
         responsibilities:
           - Google Workspace Administration.
-          - Infrastructure management.
-          - Microservice deployments using Gitlab-CI.
-          - Migration of existing CI pipelines from Jenkins to Gitlab.
+          - Infrastructure management
+          - Kubernetes deployments using Gitlab-CI
+          - Migration of CI pipelines from Jenkins to Gitlab-ci
+          - MongoDB Cluster administration
 
   - company:
       name: Draglet GmbH
@@ -85,10 +89,11 @@ experiences:
         start: Oct 2017
         end: May 2018
         responsibilities:
-          - Administration of Blockchain wallets.
-          - Recruiting of team members.
-          - Monitoring using Icinga.
-          - Migration of existing CI pipelines from Jenkins to Gitlab.
+          - Configuration Management (Ansible)
+          - Administration of Crypto Assets
+          - Recruiting team members
+          - Monitoring (Icinga, Prometheus)
+          - Migration of CI pipelines from Jenkins to Gitlab-ci
 
   - company:
       name: Hörer und Flamme
@@ -100,6 +105,11 @@ experiences:
         start: Oct 2015
         end: Oct 2017
         responsibilities:
-          - CI Pipelines using Gitlab.
-          - LDAP/AD administration using Univention Corporate server.
-          - Device management.
+          - CI Pipelines using Gitlab-ci
+          - Univention Corporate server (UCS) Domain Administration
+          - Microsoft AD Administration
+          - Device management
+          - Automate provisioning of PHP based Web Applications
+          - Data Compliance
+          - Data imports for Marketing Campaigns
+          - Mentoring a Trainee
