@@ -3,7 +3,7 @@ baseURL: https://npanic.br0.space/
 languageCode: en-us
 title: Martin Friedrich
 theme: toha
-googleAnalytics: UA-105747174-1
+# googleAnalytics: UA-105747174-1
 
 languages:
   en:
