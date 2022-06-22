@@ -30,11 +30,6 @@ markup:
 enableEmoji: true
 enableGitInfo: true
 
-privacy:
-  googleAnalytics:
-    disable: true
-    respectDoNotTrack: false
-    useSessionStorage: false
 
 params:
   background: /images/site/the_eye.png
