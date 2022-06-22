@@ -39,7 +39,9 @@ params:
 
   gitRepo: https://github.com/networkpanic/npanic.br0.space
   gitBranch: main
-
+  features:
+    analytics:
+      enabled: false
   enableBlogPost: false
   enableTOC: true
   # Show tags under the post title
