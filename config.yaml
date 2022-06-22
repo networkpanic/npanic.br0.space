@@ -30,7 +30,6 @@ markup:
 enableEmoji: true
 enableGitInfo: true
 
-
 params:
   background: /images/site/the_eye.png
   logo:
