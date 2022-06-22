@@ -19,32 +19,31 @@ experiences:
         start: Oct 2021
 #        end: Aug 2022
         responsibilities:
-          - Code security (SonarQube, Whitesource, Renovate)
-          - Continuous delivery on Kubernetes (Github Actions, Buildkite)
-          - Infrastructure Configuration management (Ansible, Puppet, Terraform)
-          - Mobile device management (Micromdm, AzureAD, Puppet)
-          - Package Management (AutoPKG, Intune, Debian apt)
+          - Automated code scanning over 1000+ repositories (Whitesource, Renovate, SonarQube)
+          - Automated Patch Management (AutoPKG, Intune, Debian apt)
+          - Continuous delivery of open source MDM infrastructure (MicroMDM, Puppet)
+          - Device Management of a large fleet (2000+ devices)
+          - Huge savings of hardware budget by offering a remote workplace solution with 3D support (Terraform, Parsec)
           - Platform Administration (Google Workspace, Atlassian, Slack, Office365)
       - designation: Devops Engineer
         start: Nov 2020
         end: Oct 2021
         responsibilities:
+          - Built a cost-efficient on-premise MacOS build infrastructure
           - CI/CD support for internal customers
           - Configuration management (Ansible, Packer, Terraform)
           - Continuous delivery on Kubernetes (Gitlab-CI, Buildkite, Github Actions)
           - Migration of CI pipelines from Gitlab-CI to Buildkite
-          - Monitoring & Alerting (Prometheus stack, ELK stack, Thanos)
-          - on-premise MacOS build infrastructure (Anka)
       - designation: Senior System Administrator / Teamlead
         start: Feb 2020
         end: Nov 2020
         responsibilities:
-          - Cluster administration (Docker Swarm, Kubernetes)
-          - Configuration management (Ansible, Packer, Terraform)
+          - Built a provider independed Kubernetes provisioner (Ansible)
           - Continuous delivery on Kubernetes (Gitlab-CI, Buildkite)
-          - Database Administration (Elasticsearch, Redis Cluster, Postgres)
-          - Mentoring a trainee
+          - Cost-efficient hosting of on-premise database clusters (Elasticsearch, Redis Cluster, Postgres)
+          - Mentoring a trainee project (Monitoring cluster infrastructure using open source technology)
           - Monitoring & Alerting (Prometheus, Victoria-metrics, ELK, Thanos)
+          - Working on a Kubernetes based game-server platform
   - company:
       name: Zeuz GmbH
       url: "https://zeuz.io"
@@ -55,13 +54,10 @@ experiences:
         start: Jan 2019
         end: Feb 2020
         responsibilities:
-          - Building a Docker based game-server platform
-          - Cluster administration (Docker Swarm, Kubernetes)
-          - Configuration management (Ansible, Terraform, Packer)
-          - Continuous delivery on Kubernetes (Gitlab-CI, Buildkite)
-          - Continuous security (Gitlab SAST/DAST)
-          - Database Administration (Elasticsearch, Redis Cluster, Postgres)
-          - Managing bare-metal infrastructure (Ansible)
+          - 30% cost savings by moving an Elasticsearch cluster from cloud to on-premise  
+          - Built a cost-efficient provider independed Docker Swarm provisioner (Ansible)
+          - Built a Docker-Swarm based game-server platform
+          - Continuous security scanning using Gitlab
           - Mentoring a trainee
           - Monitoring & Alerting (Prometheus, Victoria-metrics, ELK, Thanos)
   - company:
@@ -74,10 +70,9 @@ experiences:
         start: Jun 2018
         end: Jan 2019
         responsibilities:
+          - 40% cost savings by moving a MongoDB cluster from cloud to on-premise  
           - Configuration management (Ansible)
-          - Continuous security (Gitlab SAST/DAST)
           - Continuous delivery of NodeJS Applications (Gitlab-CI)
-          - Database Administration (MongoDB, Redis Cluster)
           - Migration of CI/CD pipelines from Bamboo, Jenkins to Gitlab-CI
           - Monitoring & Alerting (Prometheus stack)
           - Platform Administration (Google Workspace, Atlassian, Slack)
@@ -92,10 +87,9 @@ experiences:
         end: May 2018
         responsibilities:
           - Administration of Crypto Assets
-          - Configuration management (Ansible)
-          - Continuous delivery of Java Applications (Gitlab-CI)
-          - Database Administration (MariaDB)
+          - Cost-efficient hosting a MongoDB cluster on-premise  
           - Firewall & VPN Administration (opnSense, OpenVPN, strongswan)
+          - Huge cost savings by introducing configuration management (Ansible)
           - Migration of CI pipelines from Jenkins to Gitlab-CI
           - Monitoring & Alerting (Icinga, Prometheus)
           - Platform Administration (Google Workspace, Atlassian, Slack)
@@ -110,13 +104,12 @@ experiences:
         start: Oct 2015
         end: Oct 2017
         responsibilities:
-          - Configuration management (Ansible)
-          - Continuous delivery of PHP Applications (Gitlab-CI)
-          - Data imports for marketing campaigns
-          - Device management
+          - Automating data imports and exports for marketing campaigns
+          - Cost savings by introducing configuration management (Ansible)
+          - Cost-efficient device management using open source technology
           - Directory Administration (ActiveDirectory, AzureAD, LDAP, Univention Corporate Server)
-          - Firewall & VPN Administration (pfSense, OpenVPN, strongswan)
-          - Mentoring a trainee
+          - Introduced CI/CD to existing PHP Applications which allowed to launch new projects many times faster (Gitlab-CI)
           - Monitoring & Alerting (Nagios, check_mk)
           - PBX Administration (Asterisk, Pascom MobyDick)
-          - Running on-premise infrastructure (Proxmox, FreeNAS)
+          - Running cost-efficient on-premise infrastructure (Proxmox, FreeNAS)
+          - Running Firewall & VPN gateways using open source (pfSense, OpenVPN, strongswan)
